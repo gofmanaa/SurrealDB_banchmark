@@ -1,5 +1,4 @@
 use std::time::Instant;
-
 use serde::{Deserialize, Serialize};
 use surrealdb::engine::remote::ws::Ws;
 use surrealdb::opt::auth::Root;

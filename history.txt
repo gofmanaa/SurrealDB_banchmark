@@ -1,3 +1,6 @@
 #V2
 DELETE person
 SELECT * FROM person
+SELECT count() FROM person GROUP ALL
+DELETE person;
+SELECT count() FROM person GROUP ALL
