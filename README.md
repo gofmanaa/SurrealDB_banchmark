@@ -23,3 +23,7 @@ Run benchmark
  ./target/release/surrealDB_banchmarks
 ```
 
+
+05/2024 Nothing change:
+
+![X post](x_post.png) 
